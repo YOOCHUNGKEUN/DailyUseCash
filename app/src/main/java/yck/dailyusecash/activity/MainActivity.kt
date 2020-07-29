@@ -51,11 +51,7 @@ class MainActivity : BaseActivity(),View.OnClickListener{
         setStatusBarColor(getColor(R.color.color_ffffff))
         setContentView(R.layout.activity_main)
         eventRegister(this)//this 등록했기 때문에, Subscribe에서 onCreate선언한 모든것을 지속적으로 사용 가능함
-
-
         //mCommonUtils.callAppStoreVersion()
-
-
         //오늘날짜 저장
         if(mCommonUtils.isEmptyString(mCustomRepository.getRepository(BaseConstant.PREF_KEY_TODAYDATE))){
             saveTodayDate(this)
