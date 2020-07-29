@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <style name="txt_8_005cb9" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_005cb9</item>
+        <item name="android:textSize">@dimen/dp_8</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_8_738092" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_738092</item>
+        <item name="android:textSize">@dimen/dp_8</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+    <style name="txt_10_61000000" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_61000000</item>
+        <item name="android:textSize">@dimen/dp_10</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_10_M_94ffffff" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_94ffffff</item>
+        <item name="android:textSize">@dimen/dp_10</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_10_798ba0" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_798ba0</item>
+        <item name="android:textSize">@dimen/dp_10</item>
+        <item name="android:spacing">@dimen/dp_m_0_25</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+    <style name="txt_11_717171" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_717171</item>
+        <item name="android:textSize">@dimen/dp_11</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_4</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+
+
+    <style name="txt_12_db3c10" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_db3c10</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_12_666666" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_666666</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:spacing">@dimen/dp_m_0_02</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_12_ffffff_line4" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:spacing">@dimen/dp_m_0_02</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_4</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="txt_12_ffffff_line8" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:spacing">@dimen/dp_m_0_02</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_8</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_12_717171" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_717171</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_4</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_12_1e1e1e" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_1e1e1e</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:letterSpacing">-0.08</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_12</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_12_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_4</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="txt_12_3a3a3a_0_3" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_12_127de4" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_127de4</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_12_e90000" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_e90000</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_12_70747f" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_70747f</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_12_7d7d7d" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_7d7d7d</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+
+
+    <style name="txt_13_1a1a1a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_1a1a1a</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="txt_13_127de4" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_127de4</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_13_000000" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_000000</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_13_000000_line9" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_000000</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:textSize">@dimen/dp_12</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_9</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_13_888888" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_888888</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_7</item>
+        <item name="android:textSize">@dimen/dp_13</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_13_666666" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_666666</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:textSize">@dimen/dp_13</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_13_666666_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_666666</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/dp_13</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_13_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_13</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_2</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_13_717171" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_717171</item>
+        <item name="android:textSize">@dimen/dp_13</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_2</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_13_b2b2b2" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_b2b2b2</item>
+        <item name="android:textSize">@dimen/dp_13</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+    <style name="txt_14_1a1a1a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_1a1a1a</item>
+        <item name="android:textSize">@dimen/dp_14</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_14_ffffff_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:spacing">@dimen/dp_m_0_02</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_m_2</item>
+        <item name="android:textSize">@dimen/dp_14</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_14_1e1e1e" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_1e1e1e</item>
+        <item name="android:textSize">@dimen/dp_14</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_14_1e1e1e_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_1e1e1e</item>
+        <item name="android:textSize">@dimen/dp_14</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="txt_14_b4b4b4" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_b4b4b4</item>
+        <item name="android:textSize">@dimen/dp_14</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_14_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_14</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+    <style name="txt_15_ffffff" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:textSize">@dimen/dp_15</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_15_1274de4" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_127de4</item>
+        <item name="android:textSize">@dimen/dp_15</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_15_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_15</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+
+    <style name="txt_16_717171_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_717171</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="txt_16_ffffff_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_m_4</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_16_888888_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_888888</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+   <style name="txt_16_ffffff" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_m_4</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_16_000000" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_000000</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_16_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_2</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_16_M_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_8</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_16_3a3a3a_type2" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+        <item name="android:letterSpacing">-0.04</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_8</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_16_005cb9" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_005cb9</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+        <item name="android:letterSpacing">-0.04</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_8</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="txt_16_000000_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_000000</item>
+        <item name="android:textSize">@dimen/dp_22</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+    <style name="txt_17_000000" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_000000</item>
+        <item name="android:textSize">@dimen/dp_17</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_17_primary_dark" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">@dimen/dp_17</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_17_127de4" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_127de4</item>
+        <item name="android:textSize">@dimen/dp_17</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+    <style name="txt_18_db3c10_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_db3c10</item>
+        <item name="android:textSize">@dimen/dp_18</item>
+        <item name="android:spacing">@dimen/dp_m_0_45</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_18_bbbbbb" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_bbbbbb</item>
+        <item name="android:textSize">@dimen/dp_18</item>
+        <item name="android:spacing">@dimen/dp_m_0_45</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_18_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_18</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_18_005cb9" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_005cb9</item>
+        <item name="android:textSize">@dimen/dp_18</item>
+        <item name="android:letterSpacing">-0.04</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_8</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <style name="txt_19_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_19</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_19_127de4_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_127de4</item>
+        <item name="android:textSize">@dimen/dp_19</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+    <style name="txt_20_ffffff" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:textSize">@dimen/dp_20</item>
+        <item name="android:letterSpacing">-0.05</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_4</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+    <style name="txt_20_M_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_20</item>
+        <item name="android:letterSpacing">-0.05</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_4</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_20_292929" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_292929</item>
+        <item name="android:textSize">@dimen/dp_20</item>
+        <item name="android:letterSpacing">-1</item>
+        <item name="android:lineSpacingExtra">@dimen/dp_4</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+    <style name="txt_21_ffffff_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:textSize">@dimen/dp_21</item>
+        <item name="android:spacing">@dimen/dp_m_0_03</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+
+
+    <style name="txt_22_000000_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_000000</item>
+        <item name="android:textSize">@dimen/dp_22</item>
+        <item name="android:spacing">@dimen/dp_m_0_55</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <style name="txt_24_M_3a3a3a" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_3a3a3a</item>
+        <item name="android:textSize">@dimen/dp_22</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="txt_24_000000" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_000000</item>
+        <item name="android:textSize">@dimen/dp_22</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+    <style name="txt_24_M_005cb9" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/color_005cb9</item>
+        <item name="android:textSize">@dimen/dp_22</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+    <style name="txt_30_000000" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_000000</item>
+        <item name="android:textSize">@dimen/dp_30</item>
+        <item name="android:spacing">@dimen/dp_m_0_08</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+
+
+
+    <style name="txt_25_005cb9" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_005cb9</item>
+        <item name="android:textSize">@dimen/dp_25</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="txt_25_ffffff" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:textSize">@dimen/dp_25</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+
+
+    <style name="txt_30_005cb9_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_005cb9</item>
+        <item name="android:textSize">@dimen/dp_30</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+    <style name="txt_40_005cb9_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_005cb9</item>
+        <item name="android:textSize">@dimen/dp_40</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+    <style name="txt_50_005cb9_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_005cb9</item>
+        <item name="android:textSize">@dimen/dp_50</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+    <style name="txt_35_000000_bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_000000</item>
+        <item name="android:textSize">@dimen/dp_35</item>
+        <item name="android:spacing">@dimen/dp_m_0_08</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+</resources>

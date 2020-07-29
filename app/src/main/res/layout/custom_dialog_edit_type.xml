@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_ffffff"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/dialog_tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/dp_10"
+        android:text="Tilte"
+        style="@style/txt_20_ffffff"
+        android:background="@color/color_127de4"
+        android:visibility="gone"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/dp_20">
+
+
+        <EditText
+            android:id="@+id/dialog_edt_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/color_127de4"
+            android:inputType="text"
+            style="@style/txt_17_000000"
+            android:textColorHint="@color/color_7d7d7d"
+            android:visibility="gone"/>
+
+        <EditText
+            android:id="@+id/dialog_edt_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/txt_17_000000"
+            android:backgroundTint="@color/color_127de4"
+            android:inputType="number"
+            android:textColorHint="@color/color_7d7d7d"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/dialog_date"
+            android:layout_marginTop="@dimen/dp_5"
+            style="@style/txt_18_005cb9"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp_5"
+            android:text="0000-00-00"
+            android:textColor="@drawable/selector_txt_click_event"
+            android:background="@drawable/selector_bg_click_event"
+            android:visibility="gone"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/dp_10"
+            android:gravity="right"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dialog_tv_cancel"
+                style="@style/txt_17_127de4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_10"
+                android:layout_marginRight="@dimen/dp_20"
+                android:text="취소"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/dialog_tv_confirm"
+                style="@style/txt_17_127de4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_10"
+                android:layout_marginRight="@dimen/dp_20"
+                android:text="확인"
+                android:visibility="gone"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>

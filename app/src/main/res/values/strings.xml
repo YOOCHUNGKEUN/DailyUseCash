@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">DailyUseCash</string>
+
+    <string name="co_confirm">확인</string>
+    <string name="co_cancel">취소</string>
+    <string name="co_yes">예</string>
+    <string name="co_no">아니오</string>
+
+    <string name="set_target_amount_comment">목표 금액을 설정해주세요.</string>
+    <string name="set_add_item">항목과 금액을 입력해주세요.</string>
+    <string name="after_one_day">오늘 잔여 금액 :</string>
+    <string name="daily_one_day">오늘 목표 금액 :</string>
+
+    <string name="hint_target_amount">목표금액</string>
+    <string name="hint_add_history_name">항목</string>
+    <string name="hint_add_amount">금액</string>
+
+    <string name="check_empty">빈값을 확인하세요.</string>
+    <string name="d_day_count">D - </string>
+    <string name="d_day">Day</string>
+    <string name="set_remove_item_comment">해당내용을 삭제하시겠습니까?</string>
+    <string name="double_click_finish_app">한번 더 누르면 앱을 종료합니다.</string>
+    <string name="target_amount">목표사용금액 : </string>
+
+    <string name="target_date">목표날짜 : </string>
+    <string name="rest_amount">현재 총 잔여금 : </string>
+    <string name="set_add_history_name">항목 : </string>
+    <string name="set_add_amount">금액 : </string>
+    <string name="init_data_title">데이터 초기화</string>
+    <string name="init_data_comment">데이터를 초기화 시키겠습니까? </string>
+
+    <string name="alert_content_not_choiec_today">오늘을 지정 할 수 없습니다.</string>
+    <string name="alert_content_blank">값을 입력 해 주세요.</string>
+    <string name="alert_content_choice_day_first">날짜를 먼저 설정 해 주세요.</string>
+    <string name="alert_content_goto_appstore">구글 스토어에서 앱을 재 설치하시기 바랍니다.</string>
+
+    <string name="update_content">새로운 버전이 나왔습니다.\n새로 받으시겠습니까?</string>
+    <string name="update_title">Update</string>
+
+</resources>
+
