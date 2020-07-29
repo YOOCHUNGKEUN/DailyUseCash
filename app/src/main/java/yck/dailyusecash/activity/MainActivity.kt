@@ -53,7 +53,7 @@ class MainActivity : BaseActivity(),View.OnClickListener{
         eventRegister(this)//this 등록했기 때문에, Subscribe에서 onCreate선언한 모든것을 지속적으로 사용 가능함
 
 
-        mCommonUtils.callAppStoreVersion()
+        //mCommonUtils.callAppStoreVersion()
 
 
         //오늘날짜 저장
