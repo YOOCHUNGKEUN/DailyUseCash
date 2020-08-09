@@ -115,9 +115,5 @@ class ItemlistPresenter : IItemlistConstractor.presenter {
     }
 
 
-    override fun resultTodayItemOfList() {
-
-    }
-
 
 }//class end

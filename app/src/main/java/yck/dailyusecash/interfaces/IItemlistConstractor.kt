@@ -13,7 +13,6 @@ interface IItemlistConstractor {
         fun addItemOfList(listdata:ListAdapterData)
         fun deleteItemOfList(position:Int, listAdaterData:ListAdapterData)
         fun resultAmountOfList():Int
-        fun resultTodayItemOfList()
         fun getItemList():ArrayList<ListAdapterData>?
     }
 
